@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_left_text_view">22dp</dimen>
+    <dimen name="padding_drawble">12dp</dimen>
+    <dimen name="main_text_size">16sp</dimen>
+    <dimen name="margin_top_text_view">18dp</dimen>
+    <dimen name="h2_text_size">28dp</dimen>
+    <dimen name="margin_right_text_view">22dp</dimen>
+</resources>

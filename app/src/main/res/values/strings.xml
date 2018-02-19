@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="location">1568 Paddington Str., NY</string>
+    <string name="phone_number">+1 123 4456 789</string>
+    <string name="daily_text">Daily: 24/7</string>
+    <string name="e_mail">medicalherb@legalize.com</string>
+    <string name="site_address">www.medherb.com</string>
+    <string name="h2_text">Legal medical herbs</string>
+</resources>
